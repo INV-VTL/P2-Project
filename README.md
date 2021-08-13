@@ -33,10 +33,10 @@ In accordance with the results found in this project's multiple regression model
 - .ipynb_checkpoints
 - Visualizations + Images
 - Analysis of Property Sales PowerPoint File
-- Data Set Column IDs
-- kc_house_data
 - Notebook PDF
 - Phase 2 Project JYNB.ipynb
 - PowerPoint PDF
 - README
+- Data Set Column IDs
+- kc_house_data
 
