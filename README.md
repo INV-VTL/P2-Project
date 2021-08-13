@@ -33,6 +33,7 @@ In accordance with the results found in this project's multiple regression model
 - .ipynb_checkpoints
 - Visualizations + Images
 - Analysis of Property Sales PowerPoint File
+- GitHub PDF
 - Notebook PDF
 - Phase 2 Project JYNB.ipynb
 - PowerPoint PDF
