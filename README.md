@@ -1,6 +1,8 @@
-
+<img src="Visualizations + Images\image2.jpg" alt="A" style="zoom:200%;" />
 
 # Analysis of House Sales through Regression Modeling
+
+##### Author: Ryan S. Chung
 
 ## Overview
 
